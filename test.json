@@ -2,15 +2,12 @@
  "name": "gov",
  "children": [
   {
-   "name": "analytics",
-   "children": [
-    {
      "name": "cluster",
      "children": [
       {"name": "budget", "value": 543},
       {"name": "organisation", "value": 117},
       {"name": "budgetassign", "value": 2}
+     ]
       }
     ]
-    }
 }
