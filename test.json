@@ -7,9 +7,10 @@
     {
      "name": "cluster",
      "children": [
-      {"name": "budget", "value": 54.3},
-      {"name": "organisation", "value": 11.7},
-      {"name": "budgetassign", "value": 0.2},
-      {"name": "MergeEdge", "value": 743}
- ]
+      {"name": "budget", "value": 543},
+      {"name": "organisation", "value": 117},
+      {"name": "budgetassign", "value": 2}
+      }
+    ]
+    }
 }
