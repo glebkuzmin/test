@@ -1,5 +1,5 @@
 {
- "name": «gov»,
+ "name": "gov",
  "children": [
   {
    "name": "analytics",
@@ -7,9 +7,9 @@
     {
      "name": "cluster",
      "children": [
-      {"name": «budget», "value": 54.3},
-      {"name": «organisation», "value": 11.7},
-      {"name": «budgetassign», "value": 0.2},
+      {"name": "budget", "value": 54.3},
+      {"name": "organisation", "value": 11.7},
+      {"name": "budgetassign", "value": 0.2},
       {"name": "MergeEdge", "value": 743}
      ]
     },
