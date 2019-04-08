@@ -1,12 +1,32 @@
 {
- "name": "gov",
+ "name": "total",
  "children": [
   {
-     "name": "cluster",
+     "name": "gov",
      "children": [
-      {"name": "budget", "value": 543},
-      {"name": "organisation", "value": 117},
-      {"name": "budgetassign", "value": 2}
+      {"name": "budgetGov", "value": 543},
+      {"name": "organisationGov", "value": 117},
+      {"name": "budgetassignGov", "value": 2}
+     ]
+      },
+  {
+     "name": "business",
+     "children": [
+      {"name": "organisationBusiness", "value": 292},
+      {"name": "fund", "value": 10}
+     ]
+      },
+  {
+     "name": "foreigner",
+     "children": [
+      {"name": "foreigner", "value": 26}
+     ]
+      },
+  {
+     "name": "other",
+     "children": [
+      {"name": "hei", "value": 8},
+      {"name": "nonBusiness", "value": 2}
      ]
       }
     ]
